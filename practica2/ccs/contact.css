@@ -1,0 +1,62 @@
+*{
+    margin-top: 0 auto ;
+}
+
+body{
+    font-family: raleway;
+    ;
+}
+#contenedor {
+    position: relative ;
+    width: 450px;
+    margin: 0 auto;
+  }
+  
+h1{
+    text-align: left ;
+}
+p{
+    text-align: left ;
+}
+.caja{
+    text-align: end;
+    margin-top: 40px;
+    font-family: open sans;
+    background-color: rgba(255, 255, 255, 0.5);
+    font-size: 30;
+    }
+        ul li{
+        list-style: none ;
+        text-align: end ;
+        text-decoration: none;
+        
+        }
+        
+        ul li a{
+            text-decoration: none;
+            
+        }
+         ul a i {
+             color: black
+        
+         }
+        
+         
+        
+
+.mapa{
+background-image: url("https://goo.gl/A6HpoZ");
+background-size: 100%;
+background-size: 450px;
+
+}
+
+#contactos{
+ color: rgb(45, 185, 120);
+ text-decoration: none;
+
+}
+#data{
+    text-decoration: none;
+    color: black;
+}

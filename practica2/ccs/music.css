@@ -1,0 +1,85 @@
+*{
+    margin: auto
+}
+
+body{
+    background-image: url("../img/emilia-music-top.jpg");
+    background-size: 100% 100px;
+    background-repeat: no-repeat;
+    background-position-x: right;
+    font-family: raleway;
+    }
+
+    .caja{
+        text-align: end;
+        margin-top: 40px;
+        font-family: open sans;
+        background-color: rgba(255, 255, 255, 0.5);
+        font-size: 30;
+        }
+        ul li{
+          text-align: end;
+          list-style: none;
+        }
+    
+         ul a{
+             text-decoration: none;
+             color: black;
+             margin-left: 20px;
+             margin-top: 30px;
+        
+         }
+         .Album{
+             margin-top: 50px;
+             margin-left : 20px;
+             font-family: sans-serif;
+             text-decoration: none;
+         }
+         
+         
+         
+        
+         h1{
+             margin-top: 50px ;
+             font-family: raleway ;
+             font-size: 60px;
+             font-weight: 100;
+             margin-left: 5px;
+             letter-spacing: 10px;
+         }
+         h3{
+            margin-top: 50px ;
+            font-family: raleway ;
+            font-size: 20px;
+            font-weight: 100;
+            margin-left: 5px;
+            letter-spacing: 1px;
+        }
+         h2{
+            margin-top: 50px ;
+            font-family: open sans-serif ;
+            font-size: 30px;
+            font-weight: 100;
+            margin-left: 5px;
+            letter-spacing: 1px;
+         }
+         p{
+            margin-top: 10px ;
+            font-family: open sans-serif;
+            font-size: 15px;
+            font-weight: 100;
+            margin-left: 75px;
+            letter-spacing: 1px;
+          }
+          
+          .album{
+            margin-top: 10px ;
+            font-family: open ;
+            font-size: 15px;
+            font-weight: 100;
+            margin-left: 5px;
+            letter-spacing: 1px;
+          }
+          
+
+          
